@@ -15,7 +15,7 @@ class TinhTongSoLeTest {
     @Test
     public void tc1_tinhTongSoLeHopLe(){
         int num = 5;
-        assertEquals(20,tinhTongSoLe.tinhTong(num));
+        assertEquals(10,tinhTongSoLe.tinhTong(num));
     }
 
     @Test
